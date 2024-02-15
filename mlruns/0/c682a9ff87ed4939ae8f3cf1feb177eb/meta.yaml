@@ -1,0 +1,15 @@
+artifact_uri: file:///home/vishal/Documents/mlflow_project/mlruns/0/c682a9ff87ed4939ae8f3cf1feb177eb/artifacts
+end_time: 1708000471408
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c682a9ff87ed4939ae8f3cf1feb177eb
+run_name: rebellious-jay-388
+run_uuid: c682a9ff87ed4939ae8f3cf1feb177eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708000469493
+status: 3
+tags: []
+user_id: vishal
